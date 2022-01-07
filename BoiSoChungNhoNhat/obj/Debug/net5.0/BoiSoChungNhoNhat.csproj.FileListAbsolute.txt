@@ -1,0 +1,15 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\BoiSoChungNhoNhat.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\BoiSoChungNhoNhat.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\BoiSoChungNhoNhat.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\BoiSoChungNhoNhat.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\BoiSoChungNhoNhat.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\ref\BoiSoChungNhoNhat.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\bin\Debug\net5.0\BoiSoChungNhoNhat.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\ref\BoiSoChungNhoNhat.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\BoiSoChungNhoNhat\obj\Debug\net5.0\BoiSoChungNhoNhat.genruntimeconfig.cache

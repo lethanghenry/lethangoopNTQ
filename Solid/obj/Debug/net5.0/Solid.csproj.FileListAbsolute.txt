@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.csproj.AssemblyReference.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\Solid.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\Solid.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\Solid.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\Solid.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\Solid.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\ref\Solid.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\bin\Debug\net5.0\Solid.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\ref\Solid.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\Solid\obj\Debug\net5.0\Solid.genruntimeconfig.cache

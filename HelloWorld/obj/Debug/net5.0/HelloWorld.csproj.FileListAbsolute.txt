@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\KeThua.exe
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\KeThua.deps.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\KeThua.runtimeconfig.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\KeThua.runtimeconfig.dev.json
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\KeThua.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\ref\KeThua.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\bin\Debug\net5.0\KeThua.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.AssemblyInfoInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.AssemblyInfo.cs
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.csproj.CoreCompileInputs.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\ref\KeThua.dll
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.pdb
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.genruntimeconfig.cache
+D:\2013\thang_dep_trai\Lam_Viec_NTQ\FR-LeVanThang\KeThua\obj\Debug\net5.0\KeThua.csproj.AssemblyReference.cache
